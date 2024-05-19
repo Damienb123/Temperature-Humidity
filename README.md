@@ -1,2 +1,26 @@
 # Temperature-Humidity
-The Temperature and Humidity Monitoring System gathers data from sensors placed in a museum environment to measure temperature and humidity. This document outlines the structure of the XML response sent by the museum computer to the server through an API request, along with additional notes regarding the data format.
+
+1. [Table of Contents](#Table-of-Contents)
+2. [Overview](#Overview)
+3. [API Endpoints](#API-endpoints)
+      - Submit Daily Data
+4. [Request Body Format](#Request-Body-Format)
+      - Example Request
+5. [Responses](#Response)
+      - Success Response
+      - Error Responses
+6. [Setup Instructions](#Setup-Instructions)
+7. [Example Usage](#Example-Usage)
+8. [Conclusion](#Conclusion)
+
+## Overview
+
+## API Endpoints
+
+## Request Body Format
+
+### Example Request
+
+## Setup Instructions
+
+## Conclusion
