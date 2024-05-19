@@ -7,7 +7,8 @@
 4. [Request Body Format](#Request-Body-Format)
 5. [Setup Instructions](#Setup-Instructions)
 6. [Example Usage](#Example-Usage)
-7. [Conclusion](#Conclusion)
+7. [Reference](#Reference)
+8. [Conclusion](#Conclusion)
 
 ## Overview
 
@@ -74,6 +75,10 @@ A successful response will confirm that the data has been submitted:
     "submissionId": 67890
 }
 ```
+
+## Reference
+
+For needed thorough analysis of the project, please refer to the attached .pdf documenatation file.
 
 ## Conclusion
 
