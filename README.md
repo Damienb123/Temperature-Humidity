@@ -24,13 +24,13 @@ The Temperature-Humidity API allows users to submit and retrieve daily temperatu
 
 The request body should be in XML format and contain the following elements:
 - **<dailyData>:** Root element that encapsulates the daily data.
-      - **<date>:** Specifies the date of the recorded data in YYYY-MM-DD format.
-      - **<hourlyData>:** Contains the hourly data entries.
-            - **<time>:** Specifies the time of the recorded data in HH:MM format.
-            - **<device>:** Contains data from individual devices.
-                - **<id>:** The unique identifier for the device.
-                - **<temperature>:** The temperature recorded by the device.
-                - **<humidity>:** The humidity recorded by the device.
+  - **<date>:** Specifies the date of the recorded data in YYYY-MM-DD format.
+  - **<hourlyData>:** Contains the hourly data entries.
+    - **<time>:** Specifies the time of the recorded data in HH:MM format.
+    - **<device>:** Contains data from individual devices.
+      - **<id>:** The unique identifier for the device.
+      - **<temperature>:** The temperature recorded by the device.
+      - **<humidity>:** The humidity recorded by the device.
   
 ## Setup Instructions
 
